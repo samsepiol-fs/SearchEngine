@@ -1,0 +1,35 @@
+button{
+    background-color: blue;
+    color: white;
+    border: 2px white;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin: 2px 4px;
+    cursor: pointer;
+}
+input[type = text]{
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 6px;
+    padding: 8px 16px;
+}
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.resultTable{
+    display: inline-block;
+}
+.titleHomepage{
+    text-align: center;
+}
+.titleHistory{
+    text-align: left;
+}
+.titleSearch{
+    text-align: left;
+}
+.homepage{
+    margin: 200px 100px;
+}
